@@ -13,10 +13,10 @@ title                    : "未来共生情報研究室"
 title_separator          : "-"
 name                     : &name "未来共生情報研究室"
 description              : &description "人と情報技術がともに学び、支え合う社会を探究する研究室のサンプルサイトです。"
-url                      : "https://Oshima000.github.io" # 公開時に実際のURLへ変更してください
+url                      : "https://Kenta-Oshima-Lab.github.io" # 公開時に実際のURLへ変更してください
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/ok-lab-hp-test" # the subpath of your site, e.g. "/blog"
-repository               : "Oshima000/ok-lab-hp-test" # 公開時に実際のOrganization/Repositoryへ変更してください
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "Kenta-Oshima-Lab/Kenta-Oshima-Lab.github.io" # 公開時に実際のOrganization/Repositoryへ変更してください
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
