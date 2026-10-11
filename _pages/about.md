@@ -8,28 +8,28 @@ redirect_from:
 
 <figure class="lab-hero">
   <img src="{{ '/images/図2.jpg' | relative_url }}" alt="サンプル写真：室内で過ごすうさぎ">
-  <figcaption>この写真はレイアウト確認用のサンプルです。公開時に研究室の写真へ差し替えてください。</figcaption>
+  #<figcaption>この写真はレイアウト確認用のサンプルです。公開時に研究室の写真へ差し替えてください。</figcaption>
 </figure>
 
 ## 人と情報技術が、ともに育つ未来へ
 
-当研究室では、軌道力学、力学系理論、最適制御、情報科学の手法を用いて、宇宙探査機や小天体の軌道運動を研究しています。
+当研究室では、力学系理論、最適制御、情報科学の手法を用いて、宇宙探査機や小天体の軌道力学を研究しています。
 
-スローガンとして「New Structure, New Method, New Solution」を掲げており、軌道力学モデルにおける新しい力学構造を発見し、新しい軌道設計・解析手法を構築し、軌道計画問題における新しい解を求めることで、宇宙工学および天体力学分野に貢献することを目指しています。。
+スローガンとして「New Structure, New Method, New Solution」を掲げており、軌道力学モデルにおける新しい力学構造を発見し、新しい軌道設計・解析手法を構築し、軌道計画問題における新しい解を求めることで、宇宙工学および天体力学に貢献することを目指しています。
 
 <div class="lab-callouts">
-#  <div>
-#    <strong>Human-centered AI</strong>
-#    <span>人の理解と選択を支えるAI</span>
-#  </div>
-#  <div>
-#    <strong>Learning Support</strong>
-#    <span>学びを促す情報環境</span>
-#  </div>
-#  <div>
-#    <strong>Data Visualization</strong>
-#    <span>複雑な情報を伝える表現</span>
-#  </div>
+  <div>
+    <strong>力学系理論/strong>
+    <span>人の理解と選択を支えるAI</span>
+  </div>
+  <div>
+    <strong>最適制御</strong>
+    <span>学びを促す情報環境</span>
+  </div>
+  <div>
+    <strong>情報科学</strong>
+    <span>複雑な情報を伝える表現</span>
+  </div>
 </div>
 
 ## お知らせ
