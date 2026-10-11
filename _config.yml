@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "ja-JP"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "未来共生情報研究室"
+title                    : "宇宙軌道力学研究室"
 title_separator          : "-"
-name                     : &name "未来共生情報研究室"
-description              : &description "人と情報技術がともに学び、支え合う社会を探究する研究室のサンプルサイトです。"
+name                     : &name "宇宙軌道力学研究室"
+description              : &description "公立諏訪東京理科大学 大島健太研究室のサイトです。"
 url                      : "https://Kenta-Oshima-Lab.github.io" # 公開時に実際のURLへ変更してください
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ repository               : "Kenta-Oshima-Lab/Kenta-Oshima-Lab.github.io" # 公�
 author:
   # Biographic information
   avatar           : "lab-profile.jpg"
-  name             : "未来共生情報研究室"
+  name             : "宇宙軌道力学研究室"
   pronouns         : # example: "she/her"  
   bio              : "人と情報技術のよりよい関係を研究します。"
-  location         : "未来大学 1号館 234室"
-  employer         : "未来大学 情報学部"
+  location         : "公立諏訪東京理科大学 9号館 922室"
+  employer         : "公立諏訪東京理科大学 工学部"
   uri              : "https://www.example.ac.jp/"
   email            : "lab@example.ac.jp"
 
