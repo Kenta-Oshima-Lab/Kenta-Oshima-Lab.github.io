@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <figure class="slogan">
-  <img src="{{ '/images/slogan.png' | relative_url }}">
+  <img src="{{ '/images/slogan.jpg' | relative_url }}">
 </figure>
 
 ## モデルの力学構造から、探査機の軌道設計まで
