@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <figure class="lab-hero">
-  <img src="{{ '/images/図2.jpg' | relative_url }}">
+  <img src="{{ '/images/slogan.jpg' | relative_url }}">
 </figure>
 
 ## モデルの力学構造に関する基礎研究から、探査機の軌道計画に関する応用研究まで
