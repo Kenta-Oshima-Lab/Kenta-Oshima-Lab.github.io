@@ -13,7 +13,7 @@ author_profile: true
 
 ## アクセス
 
-茅野駅からバスで約10分(https://www.sus.ac.jp/about/access/)
+[茅野駅からバスで約10分](https://www.sus.ac.jp/about/access/)
 
 ## お問い合わせ
 
