@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="lab-callouts">
   <div>
-    <strong>力学系理論/strong>
+    <strong>力学系理論</strong>
     <span>人の理解と選択を支えるAI</span>
   </div>
   <div>
