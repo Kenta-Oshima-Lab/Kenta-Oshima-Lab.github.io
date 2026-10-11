@@ -23,7 +23,6 @@ repository               : "Kenta-Oshima-Lab/Kenta-Oshima-Lab.github.io" # 公�
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "lab-profile.jpg"
   name             : "宇宙軌道力学研究室"
   pronouns         : # example: "she/her"  
   bio              : # "人と情報技術のよりよい関係を研究します。"
