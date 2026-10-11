@@ -26,7 +26,7 @@ author:
   avatar           : # "lab-profile.jpg"
   name             : "宇宙軌道力学研究室"
   pronouns         : # example: "she/her"  
-  bio              : "人と情報技術のよりよい関係を研究します。"
+  bio              : # "人と情報技術のよりよい関係を研究します。"
   location         : "公立諏訪東京理科大学 9号館 922室"
   employer         : "公立諏訪東京理科大学 工学部"
   uri              : "https://www.example.ac.jp/"
