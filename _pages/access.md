@@ -11,11 +11,9 @@ author_profile: true
 
 [キャンパス案内](https://www.sus.ac.jp/about/campusguide/)
 
-## 交通案内
+## アクセス
 
-茅野駅からバスで約10分
- 
-[大学公式のアクセス案内](https://www.sus.ac.jp/about/access/)
+茅野駅からバスで約10分(https://www.sus.ac.jp/about/access/)
 
 ## お問い合わせ
 
