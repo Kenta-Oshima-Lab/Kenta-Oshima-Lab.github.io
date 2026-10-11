@@ -4,23 +4,24 @@ permalink: /faculty/
 author_profile: true
 ---
 
-## 山田 太郎 准教授
+## 大島 健太 准教授
 
 **所属**  
-未来大学 情報学部 情報デザイン学科
+公立諏訪東京理科大学 工学部 機械電気工学科
 
 **専門分野**  
-ヒューマンコンピュータインタラクション、教育工学、データ可視化
+宇宙軌道力学
 
 **略歴**  
-2014年に未来大学大学院情報科学研究科博士後期課程を修了。民間研究所、他大学での勤務を経て、2022年より現職。博士（情報科学）。
+2018年に早稲田大学大学院基幹理工学研究科博士後期課程を修了。国立天文台（学振PD）、広島工業大学（助教、講師）での勤務を経て、2025年より現職。博士（工学）。
 
+<!--
 **研究への関心**  
 高度な技術を「使える」だけでなく、人が納得しながら活用できる形にすることに関心があります。学生との議論と、小さく作って確かめるプロセスを大切にしています。
+-->
 
 **外部プロフィール**
 
-- [researchmap（サンプル）](https://researchmap.jp/)
-- [ORCID（サンプル）](https://orcid.org/)
-
-> このページの氏名・経歴・リンクはすべてサンプルです。公開時に実際の情報へ差し替えてください。
+- [researchmap](https://researchmap.jp/espresso?lang=ja)
+- [ResearchGate](https://www.researchgate.net/profile/Kenta-Oshima)
+- [Google Scholar](https://scholar.google.com/citations?user=WOvSYPkAAAAJ&hl=ja)
