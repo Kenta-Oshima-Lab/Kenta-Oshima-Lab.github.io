@@ -1,9 +1,9 @@
 - title: "教員"
   people:
-    - name: "山田 太郎"
+    - name: "大島 健太"
       role: "准教授"
-      research: "人間中心AI、教育工学"
-      url: "/faculty/"
+      <!--research: "人間中心AI、教育工学"-->
+      url: "https://www.sus.ac.jp/professor/kd_21oshima/"
 
 - title: "大学院生"
   people:
