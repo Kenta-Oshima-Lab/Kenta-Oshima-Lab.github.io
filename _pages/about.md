@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <figure class="lab-hero">
-  <img src="{{ '/images/lab-hero.jpg' | relative_url }}" alt="サンプル写真：室内で過ごすうさぎ">
+  <img src="{{ '/images/図2.jpg' | relative_url }}" alt="サンプル写真：室内で過ごすうさぎ">
   <figcaption>この写真はレイアウト確認用のサンプルです。公開時に研究室の写真へ差し替えてください。</figcaption>
 </figure>
 
