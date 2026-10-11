@@ -6,7 +6,8 @@ redirect_from:
   - /about/
 ---
 
-<figure class="slogan">
+<!--<figure class="slogan">-->
+</figure>
   <img src="{{ '/images/slogan.png' | relative_url }}">
 </figure>
 
