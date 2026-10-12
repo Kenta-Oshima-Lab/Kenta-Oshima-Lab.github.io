@@ -24,6 +24,9 @@ Berrettiが相模原で開催された[JAXAアストロダイナミクスシン�
 ### 2026年8月3日
 大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて「制限三体問題の基礎と応用」と題したレクチャーを実施しました。
 
+### 2026年6月17日
+大島が岐阜聖徳学園高等学校にて模擬講義を行いました。
+
 ### 2026年6月2日
 Berrettiがフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
 
@@ -39,11 +42,11 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2025年11月26日
 大島が札幌で開催された[第69回宇宙科学技術連合講演会](https://smartconf.jp/content/sstc69)にて研究発表を行いました。
 
-### 2025年11月日
-研究室公開を行いました。
+### 2025年11月2日
+新風祭にて研究室公開を行いました。佐貫(B4)、鈴木(B4)、水野(B4)が研究紹介を行いました。
 
-### 2025年10月日
-大島が発表しました。
+### 2025年10月1日
+大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて研究発表を行いました。
 
 ### 2025年8月29日
 大島が総合研究大学院大学 尾崎研究室の合宿に参加しました。
