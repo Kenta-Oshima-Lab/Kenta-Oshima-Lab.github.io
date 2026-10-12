@@ -6,6 +6,10 @@ author_profile: true
 
 ## 大島 健太 准教授
 
+<figure class="IAC">
+  <img src="{{ '/images/IAC.jpg' | relative_url }}">
+</figure>
+
 **所属**  
 公立諏訪東京理科大学 工学部 機械電気工学科
 
