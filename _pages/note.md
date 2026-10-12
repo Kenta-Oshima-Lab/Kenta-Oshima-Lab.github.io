@@ -1,4 +1,4 @@
-<img width="1582" height="123" alt="image" src="https://github.com/user-attachments/assets/56a77224-5d97-47e0-b6b9-21eceddb588c" />---
+---
 permalink: /note/
 title: "お知らせ"
 ---
