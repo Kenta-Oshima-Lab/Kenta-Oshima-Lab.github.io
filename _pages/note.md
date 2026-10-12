@@ -27,8 +27,8 @@ Berrettiが相模原で開催された[JAXAアストロダイナミクスシン�
 ### 2026年8月3日
 大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて「制限三体問題の基礎と応用」と題したレクチャーを実施しました。
 
-### 2026年8月5日
-Berrettiがミラノ工科大学にて[修論発表を行い、MSc in Space Engineeringの学位を取得しました](https://www.linkedin.com/posts/dario-berretti-74b431233_i-graduated-on-july-22-2026-i-received-activity-7490079719644672001-ZU1Z)．おめでとうございます！
+### 2026年7月22日
+Berrettiがミラノ工科大学にて[修論発表を行い、MSc in Space Engineeringの学位を取得しました](https://www.linkedin.com/posts/dario-berretti-74b431233_i-graduated-on-july-22-2026-i-received-activity-7490079719644672001-ZU1Z)．Congratulazioni!!
 
 ### 2026年6月17日
 大島が岐阜聖徳学園高等学校にて模擬講義を行いました。
