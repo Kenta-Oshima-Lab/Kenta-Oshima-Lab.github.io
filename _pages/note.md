@@ -33,8 +33,8 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2026年5月18日
 大島がポルトガル・コヴィリャンにて開催された[12th International Workshop and Advanced School on Spaceflight Dynamics and Control](https://www.ubi.pt/Evento/23872)にて「Unorthodox Methods and Results in Multi-Body Trajectory Design Problems」と題した招待講演を行いました。
 
-### 2025年11月日
-参加しました。大島がミニ講演会を行いました。
+### 2025年12月2日
+公立諏訪東京理科大学にて開催された[国際宇宙ステーション観察会](https://www.sus.ac.jp/topics/20251209-1/)に参加しました。大島が軌道力学に関するミニ講演会を行いました。
 
 ### 2025年11月26日
 大島が札幌で開催された[第69回宇宙科学技術連合講演会](https://smartconf.jp/content/sstc69)にて研究発表を行いました。
