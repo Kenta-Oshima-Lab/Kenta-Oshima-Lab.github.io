@@ -43,12 +43,15 @@
     - name: "長野 陽祐"
       role: "学部3年"
       research: ""
-
-- title: "卒業生・留学生"
+      
+- title: "留学生"
   people:
     - name: "Dario Berretti"
       role: "修士2年（ミラノ工科大学）"
       research: "2025年9月–2026年3月"
+
+- title: "卒業生"
+  people:
     - name: "小澤 吏玖"
       role: "学部4年"
       research: "2025年4月–2026年3月"
