@@ -9,8 +9,8 @@ title: "お知らせ"
 ### 2026年9月17日
 大島が[The Ninth International Meeting on Celestial Mechanics](https://ugolocatelli.github.io/celmec9.github.io/index.html)にて研究発表を行いました。
 
-### 2026年9月日
-岸上の論文（2024年度修士卒）が国際ジャーナルに掲載されました。
+### 2026年8月10日
+[岸上（2024年度修士卒）の論文](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が国際ジャーナルNew Astronomyに掲載されました。
 
 ### 2026年8月日
 オープンキャンパス
