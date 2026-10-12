@@ -1,16 +1,9 @@
-<!--
-- title: "教員"
-  people:
-    - name: "大島 健太"
-      role: "准教授"
-      research: ""
-      url: "https://www.sus.ac.jp/professor/kd_21oshima/"
--->
 - title: "大学院生"
   people:
     - name: "伊藤 太壱"
       role: "修士1年"
       research: ""
+      url: ""
       
 - title: "学部生"
   people:
