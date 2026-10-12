@@ -25,3 +25,6 @@ main:
 
   - title: "アクセス"
     url: /access/
+
+  - title: "お知らせ"
+    url: /note/
