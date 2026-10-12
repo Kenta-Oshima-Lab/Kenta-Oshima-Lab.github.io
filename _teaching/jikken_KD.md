@@ -2,13 +2,13 @@
 title: "機械電気工学実験"
 collection: teaching
 status: current
-academic_year: 2025
+academic_year: 
 term: "後期"
 schedule: "月曜3,4,5限"
 schedule_order: 
 type: ""
 venue: "公立諏訪東京理科大学"
-date: 2025-09-01
+date: 
 permalink: 
 summary: ""
 ---
