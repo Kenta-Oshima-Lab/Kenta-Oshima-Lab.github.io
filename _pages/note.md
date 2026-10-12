@@ -31,7 +31,7 @@ Berrettiが相模原で開催された[JAXAアストロダイナミクスシン�
 Berrettiがフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
 
 ### 2026年6月2日
-大島がフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
+大島がフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて、Chit Hong Yam氏との共同研究の成果を発表しました。
 
 ### 2026年5月18日
 大島がポルトガル・コヴィリャンにて開催された[12th International Workshop and Advanced School on Spaceflight Dynamics and Control](https://www.ubi.pt/Evento/23872)にて「Unorthodox Methods and Results in Multi-Body Trajectory Design Problems」と題した招待講演を行いました。
@@ -46,7 +46,7 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 新風祭にて研究室公開を行いました。佐貫(B4)、鈴木(B4)、水野(B4)が研究紹介を行いました。
 
 ### 2025年10月1日
-大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて研究発表を行いました。
+大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて、オーストラリア国立大学 川口研究室との共同研究の成果を発表しました。
 
 ### 2025年8月29日
 大島が総合研究大学院大学 尾崎研究室の合宿に参加しました。
@@ -66,7 +66,7 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2026年7月28日
 大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2025.html)にて研究発表を行いました。
 
-### 2026年7月日
+### 2026年7月15日
 大島が徳島で開催された[35th International Symposium on Space Technology and Science](https://ists.ne.jp/the35th/)にて研究発表を行いました。
 
 ### 2025年4月1日
