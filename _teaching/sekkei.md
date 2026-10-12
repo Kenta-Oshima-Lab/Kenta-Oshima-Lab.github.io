@@ -5,7 +5,7 @@ status: past
 academic_year: 
 type: ""
 venue: "公立諏訪東京理科大学"
-date: 
+date: 2025-09-01
 permalink: 
 summary: ""
 ---
