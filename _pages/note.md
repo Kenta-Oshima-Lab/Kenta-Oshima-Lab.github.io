@@ -7,10 +7,10 @@ title: "お知らせ"
 大島が東京大学 船瀬・五十里研究室 軌道RGの合宿に参加しました。
 
 ### 2026年9月17日
-大島が[The Ninth International Meeting on Celestial Mechanics](https://ugolocatelli.github.io/celmec9.github.io/index.html)にて研究発表を行いました。
+大島がイタリア・ヴィテルボで開催された[The Ninth International Meeting on Celestial Mechanics](https://ugolocatelli.github.io/celmec9.github.io/index.html)にて研究発表を行いました。
 
 ### 2026年8月10日
-[岸上（2024年度修士卒）の論文](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が国際学術誌New Astronomyに掲載されました。
+[岸上(2024年度修士卒)の論文](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が国際学術誌New Astronomyに掲載されました。
 
 ### 2026年8月8日、9日
 オープンキャンパスにて研究室公開を実施しました。伊藤(M1)、大島(B4)、小林(B4)、山田(B4)が研究紹介を行いました。
@@ -19,19 +19,19 @@ title: "お知らせ"
 諏訪理科×企業マッチングフェアにて伊藤(M1)、大島(B4)、小林(B4)が研究紹介を行いました。
 
 ### 2026年8月5日
-Berrettiが[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2026.html)にて研究発表を行いました。
+Berrettiが相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2026.html)にて研究発表を行いました。
 
 ### 2026年8月3日
-大島が[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて講義「制限三体問題の基礎と応用」を実施しました。
+大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて「制限三体問題の基礎と応用」と題した講義を実施しました。
 
-### 2026年6月日
-Berrettiがにて研究発表を行いました。
+### 2026年6月2日
+Berrettiがフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
 
-### 2026年6月日
-大島がにて研究発表を行いました。
+### 2026年6月2日
+大島がフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
 
-### 2026年5月日
-大島がにて招待講演を行いました。
+### 2026年5月18日
+大島がポルトガル・コヴィリャンにて開催された[12th International Workshop and Advanced School on Spaceflight Dynamics and Control](https://www.ubi.pt/Evento/23872)にて「Unorthodox Methods and Results in Multi-Body Trajectory Design Problems」と題した招待講演を行いました。
 
 ### 2025年11月日
 参加しました。大島がミニ講演会を行いました。
