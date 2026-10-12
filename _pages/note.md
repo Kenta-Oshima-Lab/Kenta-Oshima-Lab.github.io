@@ -3,11 +3,11 @@ permalink: /note/
 title: "お知らせ"
 ---
 
-### 2026年10月3日、10月4日
+### 2026年10月3日、4日
 大島が東京大学 船瀬・五十里研究室 軌道RGの合宿に参加しました。
 
-### 2026年9月日
-大島が発表しました。
+### 2026年9月17日
+大島が[The Ninth International Meeting on Celestial Mechanics](https://ugolocatelli.github.io/celmec9.github.io/index.html)にて研究発表を行いました。
 
 ### 2026年9月日
 岸上の論文（2024年度修士卒）が国際ジャーナルに掲載されました。
