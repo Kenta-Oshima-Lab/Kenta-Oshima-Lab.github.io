@@ -22,7 +22,7 @@ title: "お知らせ"
 Berrettiが相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2026.html)にて研究発表を行いました。
 
 ### 2026年8月3日
-大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて「制限三体問題の基礎と応用」と題した講義を実施しました。
+大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて「制限三体問題の基礎と応用」と題したレクチャーを実施しました。
 
 ### 2026年6月2日
 Berrettiがフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
@@ -36,8 +36,8 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2025年11月日
 参加しました。大島がミニ講演会を行いました。
 
-### 2025年11月日
-大島が第64回宇宙科学技術連合講演会にて研究発表を行いました。
+### 2025年11月26日
+大島が札幌で開催された[第69回宇宙科学技術連合講演会](https://smartconf.jp/content/sstc69)にて研究発表を行いました。
 
 ### 2025年11月日
 研究室公開を行いました。
