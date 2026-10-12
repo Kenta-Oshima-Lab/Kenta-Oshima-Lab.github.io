@@ -6,8 +6,8 @@ author_profile: true
 
 ## 大島 健太 准教授
 
-<figure class="IAC">
-  <img src="{{ '/images/IAC.jpg' | relative_url }}">
+<figure class="kd_21oshima">
+  <img src="{{ '/images/kd_21oshima.jpg' | relative_url }}">
 </figure>
 
 **所属**  
