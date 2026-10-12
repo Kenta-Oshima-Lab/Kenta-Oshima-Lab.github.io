@@ -1,4 +1,4 @@
----
+<img width="1582" height="123" alt="image" src="https://github.com/user-attachments/assets/56a77224-5d97-47e0-b6b9-21eceddb588c" />---
 permalink: /note/
 title: "お知らせ"
 ---
@@ -51,17 +51,23 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2025年8月29日
 大島が総合研究大学院大学 尾崎研究室の合宿に参加しました。
 
-### 2025年8月日
+### 2025年8月18日–22日
 大島がオーストラリア国立大学 川口研究室に滞在して共同研究を実施しました。
 
-### 2025年8月日
-大島がAAS/AIAAで発表しました。
+### 2025年8月12日
+大島が米国・ボストンで開催された[AAS/AIAA Astrodynamics Specialist Conference](https://www.space-flight.org/docs/2025_summer/2025_summer.html)にて研究発表を行いました。
 
-### 2025年8月日
-オープンキャンパス
+### 2026年8月8日
+諏訪理科×企業マッチングフェアにて大島、鈴木(B4)が研究紹介を行いました。
+
+### 2025年8月2日、3日
+オープンキャンパスにて研究室公開を実施しました。伊藤(B4)、小澤(B4)、佐貫(B4)、堀内(B4)、水野(B4)、宮川(B4)が研究紹介を行いました。
+
+### 2026年7月28日
+大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2025.html)にて研究発表を行いました。
+
+### 2026年7月日
+大島が徳島で開催された[35th International Symposium on Space Technology and Science](https://ists.ne.jp/the35th/)にて研究発表を行いました。
 
 ### 2025年4月1日
 大島が公立諏訪東京理科大学に准教授として着任しました。
-
-### 2025年3月日
-大島がオーストラリア国立大学 川口研究室に滞在して共同研究を実施しました。
