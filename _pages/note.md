@@ -13,7 +13,7 @@ title: "お知らせ"
 大島がイタリア・ヴィテルボで開催された[The Ninth International Meeting on Celestial Mechanics](https://ugolocatelli.github.io/celmec9.github.io/index.html)にて研究発表を行いました。
 
 ### 2026年8月10日
-岸上(2024年度修士卒)の論文 ["Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular
+岸上の論文 ["Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular
 restricted four-body problem"](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が国際学術誌New Astronomyに掲載されました。
 
 ### 2026年8月8日、9日
