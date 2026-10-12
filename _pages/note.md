@@ -10,19 +10,19 @@ title: "お知らせ"
 大島が[The Ninth International Meeting on Celestial Mechanics](https://ugolocatelli.github.io/celmec9.github.io/index.html)にて研究発表を行いました。
 
 ### 2026年8月10日
-[岸上（2024年度修士卒）の論文](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が国際ジャーナルNew Astronomyに掲載されました。
+[岸上（2024年度修士卒）の論文](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が国際学術誌New Astronomyに掲載されました。
 
-### 2026年8月日
-オープンキャンパス
+### 2026年8月8日、9日
+オープンキャンパスにて研究室公開を実施しました。伊藤(M1)、大島(B4)、小林(B4)、山田(B4)が研究紹介を行いました。
 
-### 2026年8月日
-Berrettiがにて研究発表を行いました。
+### 2026年8月5日
+諏訪理科×企業マッチングフェアにて伊藤(M1)、大島(B4)、小林(B4)が研究紹介を行いました。
 
-### 2026年8月日
-大島がレクチャーを実施しました。
+### 2026年8月5日
+Berrettiが[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2026.html)にて研究発表を行いました。
 
-### 2026年8月日
-マッチングフェアで伊藤（修士1年）、大島（学部4年）、小林（学部4年）が発表しました。
+### 2026年8月3日
+大島が[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて講義「制限三体問題の基礎と応用」を実施しました。
 
 ### 2026年6月日
 Berrettiがにて研究発表を行いました。
