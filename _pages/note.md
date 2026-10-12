@@ -13,7 +13,7 @@ title: "お知らせ"
 大島がイタリア・ヴィテルボで開催された[The Ninth International Meeting on Celestial Mechanics](https://ugolocatelli.github.io/celmec9.github.io/index.html)にて研究発表を行いました。
 
 ### 2026年8月10日
-[岸上(2024年度修士卒)の論文 "Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular
+岸上(2024年度修士卒)の論文 ["Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular
 restricted four-body problem"](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が国際学術誌New Astronomyに掲載されました。
 
 ### 2026年8月8日、9日
@@ -35,7 +35,7 @@ Berrettiがミラノ工科大学にて[修論発表を行い、MSc in Space Engi
 大島が岐阜聖徳学園高等学校にて模擬講義を行いました。
 
 ### 2025年6月3日
-[大島の論文 "Detailed Analysis on Barrier Surfaces Separating Regions of Possible and Impossible Motion in the Circular Restricted Three-Body Problem"](https://www.jstage.jst.go.jp/article/jesa/4/0/4_272/_article/-char/en)が国際学術誌Journal of Evolving Space Activitiesに掲載されました。
+大島の論文 ["Detailed Analysis on Barrier Surfaces Separating Regions of Possible and Impossible Motion in the Circular Restricted Three-Body Problem"](https://www.jstage.jst.go.jp/article/jesa/4/0/4_272/_article/-char/en)が国際学術誌Journal of Evolving Space Activitiesに掲載されました。
 
 ### 2026年6月2日
 Berrettiがフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
@@ -68,7 +68,7 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 卒業研究中間発表会を実施しました。
 
 ### 2025年9月10日
-[大島の論文 "On the concept of conditional barrier structures in the planar circular restricted three-body problem"](https://link.springer.com/article/10.1007/s10569-025-10260-4)が国際学術誌Celestial Mechanics and Dynamical Astronomyに掲載されました。
+大島の論文 ["On the concept of conditional barrier structures in the planar circular restricted three-body problem"](https://link.springer.com/article/10.1007/s10569-025-10260-4)が国際学術誌Celestial Mechanics and Dynamical Astronomyに掲載されました。
 
 ### 2025年8月29日
 大島が総合研究大学院大学 尾崎研究室の合宿に参加しました。
