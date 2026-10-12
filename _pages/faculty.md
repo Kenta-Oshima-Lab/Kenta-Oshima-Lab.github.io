@@ -7,7 +7,7 @@ author_profile: true
 ## 大島 健太 准教授
 
 <figure class="kd_21oshima">
-  <img src="{{ '/images/kd_21oshima.jpg' | relative_url }}">
+  <img src="{{ '/images/kd_21oshima.jpg' | relative_url }}" width="50%">
 </figure>
 
 **所属**  
