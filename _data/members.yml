@@ -9,7 +9,7 @@
 - title: "大学院生"
   people:
     - name: "伊藤 太壱"
-      role: "修士課程1年"
+      role: "修士1年"
       research: ""
       
 - title: "学部生"
@@ -51,13 +51,13 @@
       role: "修士2年（ミラノ工科大学）"
       research: "2025年9月–2026年3月"
 
-- title: "卒業生（修士）"
+- title: "卒業生（修士卒）"
   people:
     - name: "岸上 恵大"
       role: "広島工業大学（2025年3月）"
       research: ""
 
-- title: "卒業生（学士）"
+- title: "卒業生（学部卒）"
   people:
     - name: "小澤 吏玖"
       role: "公立諏訪東京理科大学（2026年3月）"
