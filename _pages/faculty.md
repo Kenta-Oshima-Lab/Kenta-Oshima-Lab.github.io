@@ -9,6 +9,7 @@ author_profile: true
 
 **所属**  
 公立諏訪東京理科大学 工学部 機械電気工学科
+[公式ページ](https://www.sus.ac.jp/professor/kd_21oshima/)
 
 **専門分野**  
 宇宙軌道力学
