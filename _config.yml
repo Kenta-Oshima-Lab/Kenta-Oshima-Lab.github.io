@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "人と情報技術のよりよい関係を研究します。"
   location         : # "公立諏訪東京理科大学 9号館 922室"
-  employer         : "公立諏訪東京理科大学 工学部"
-  uri              : "https://www.sus.ac.jp/"
+  employer         : "[公立諏訪東京理科大学 工学部](https://www.sus.ac.jp/)"
+  uri              : #"https://www.sus.ac.jp/"
   email            : "oshima_kenta@rs.sus.ac.jp"
 
   # Academic websites
