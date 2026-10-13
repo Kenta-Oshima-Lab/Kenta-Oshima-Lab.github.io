@@ -21,8 +21,9 @@ author_profile: true
 高度な技術を「使える」だけでなく、人が納得しながら活用できる形にすることに関心があります。学生との議論と、小さく作って確かめるプロセスを大切にしています。
 -->
 
+<!--
 **外部プロフィール**
-
 - [researchmap](https://researchmap.jp/espresso?lang=ja)
 - [ResearchGate](https://www.researchgate.net/profile/Kenta-Oshima)
 - [Google Scholar](https://scholar.google.com/citations?user=WOvSYPkAAAAJ&hl=ja)
+-->
