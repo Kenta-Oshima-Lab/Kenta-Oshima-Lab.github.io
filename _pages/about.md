@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "宇宙軌道力学研究室"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
