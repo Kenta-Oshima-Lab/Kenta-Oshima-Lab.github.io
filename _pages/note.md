@@ -14,7 +14,7 @@ title: "お知らせ"
 
 ### 2026年8月10日
 岸上(2024年度修士卒)の論文 ["Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular
-restricted four-body problem"](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が国際学術誌New Astronomyに掲載されました。
+restricted four-body problem"](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)が学術誌New Astronomyに掲載されました。
 
 ### 2026年8月8日、9日
 オープンキャンパスにて研究室公開を実施しました。伊藤(M1)、大島(B4)、小林(B4)、山田(B4)が研究紹介を行いました。
@@ -35,16 +35,16 @@ Berrettiがミラノ工科大学にて[修論発表を行い、MSc in Space Engi
 大島が岐阜聖徳学園高等学校にて模擬講義を行いました。
 
 ### 2025年6月3日
-大島の論文 ["Detailed Analysis on Barrier Surfaces Separating Regions of Possible and Impossible Motion in the Circular Restricted Three-Body Problem"](https://www.jstage.jst.go.jp/article/jesa/4/0/4_272/_article/-char/en)が国際学術誌Journal of Evolving Space Activitiesに掲載されました。
+大島の論文 ["Detailed Analysis on Barrier Surfaces Separating Regions of Possible and Impossible Motion in the Circular Restricted Three-Body Problem"](https://www.jstage.jst.go.jp/article/jesa/4/0/4_272/_article/-char/en)が学術誌Journal of Evolving Space Activitiesに掲載されました。
 
 ### 2026年6月2日
 Berrettiがフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
 
 ### 2026年6月2日
-大島がフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて、Chit Hong Yam氏との共同研究の成果を発表しました。
+大島がフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
 
 ### 2026年5月18日
-大島がポルトガル・コヴィリャンにて開催された[12th International Workshop and Advanced School on Spaceflight Dynamics and Control](https://www.ubi.pt/Evento/23872)にて「Unorthodox Methods and Results in Multi-Body Trajectory Design Problems」と題した招待講演を行いました。
+大島がポルトガル・コヴィリャンにて開催された[12th International Workshop and Advanced School on Spaceflight Dynamics and Control](https://www.ubi.pt/Evento/23872)にて"Unorthodox Methods and Results in Multi-Body Trajectory Design Problems"と題した招待講演を行いました。
 
 ### 2026年3月18日
 学位記授与式が行われ、伊藤、小澤、佐貫、鈴木、堀内、水野、宮川、向原 が学士（工学）の学位を取得しました。おめでとうございます！
@@ -59,16 +59,16 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 大島が札幌で開催された[第69回宇宙科学技術連合講演会](https://smartconf.jp/content/sstc69)にて研究発表を行いました。
 
 ### 2025年11月2日
-新風祭にて研究室公開を行いました。佐貫(B4)、鈴木(B4)、水野(B4)が研究紹介を行いました。
+新風祭にて研究室公開を実施しました。佐貫(B4)、鈴木(B4)、水野(B4)が研究紹介を行いました。
 
 ### 2025年10月1日
-大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて、オーストラリア国立大学 川口研究室との共同研究の成果を発表しました。
+大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて研究発表を行いました。
 
 ### 2025年9月22日
 卒業研究中間発表会を実施しました。
 
 ### 2025年9月10日
-大島の論文 ["On the concept of conditional barrier structures in the planar circular restricted three-body problem"](https://link.springer.com/article/10.1007/s10569-025-10260-4)が国際学術誌Celestial Mechanics and Dynamical Astronomyに掲載されました。
+大島の論文 ["On the concept of conditional barrier structures in the planar circular restricted three-body problem"](https://link.springer.com/article/10.1007/s10569-025-10260-4)が学術誌Celestial Mechanics and Dynamical Astronomyに掲載されました。
 
 ### 2025年8月29日
 大島が総合研究大学院大学 尾崎研究室の合宿に参加しました。
