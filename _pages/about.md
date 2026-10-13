@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "大島研究室のホームページにようこそ！"
+title: "Welcome to our site!"
 author_profile: true
 redirect_from:
   - /about/
