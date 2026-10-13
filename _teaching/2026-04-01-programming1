@@ -5,7 +5,7 @@ status: current
 academic_year: 2026
 term: "前期"
 schedule: "月曜3,4限"
-schedule_order: 
+schedule_order: 2
 type: ""
 venue: "公立諏訪東京理科大学"
 date: 2026-04-01
