@@ -14,7 +14,7 @@ redirect_from:
 
 研究室のスローガンとして"New Structure, New Method, New Solution"を掲げており、軌道力学モデルにおける新しい力学構造を発見し、新しい軌道設計・解析手法を構築し、軌道計画問題における新しい解を求めることで、宇宙工学および天体力学に貢献することを目指しています。
 
-<img src="{{ '/images/slogan_2.jpg' | relative_url }}" width="750px">
+<img src="{{ '/images/slogan_2.jpg' | relative_url }}" width="777px">
 
 <!--
 <div class="lab-callouts">
