@@ -47,7 +47,7 @@ Berrettiがミラノ工科大学にて[修論発表を行い、MSc in Space Engi
 Berrettiがフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
 
 ### 2026年6月2日
-大島がフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
+大島がフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて、ArkEdge Spaceの研究者との共同研究の成果を発表しました。
 
 ### 2026年5月26日
 宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。大島が研究発表を行いました。
@@ -77,7 +77,7 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。Berretti(M2)が研究発表を行いました。
 
 ### 2025年10月1日
-大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて研究発表を行いました。
+大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて、オーストラリア国立大学のグループとの共同研究の成果を発表しました。
 
 ### 2025年9月22日
 卒業研究中間発表会を実施しました。
@@ -104,7 +104,7 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。大島が研究発表を行いました。
 
 ### 2026年7月28日
-大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2025.html)にて研究発表を行いました。
+大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2025.html)にて、オーストラリア国立大学のグループとの共同研究の成果を発表しました。
 
 ### 2026年7月15日
 大島が徳島で開催された[35th International Symposium on Space Technology and Science](https://ists.ne.jp/the35th/)にて研究発表を行いました。
