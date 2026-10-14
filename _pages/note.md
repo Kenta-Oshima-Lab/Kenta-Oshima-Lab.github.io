@@ -13,7 +13,7 @@ title: "お知らせ"
 大島が東京大学 船瀬・五十里研究室 軌道RGの合宿(@茅野市)に参加し、研究発表・議論を行いました。
 
 ### 2026年9月24日
-卒業研究中間発表会を実施しました。
+卒業研究中間発表会を実施しました。B4の大島、北川、小林、鴇澤、徳永、中山、山田 が卒業研究の中間報告を行いました。
 
 ### 2026年9月17日
 大島がイタリア・ヴィテルボで開催された[The Ninth International Meeting on Celestial Mechanics](https://ugolocatelli.github.io/celmec9.github.io/index.html)にて研究発表を行いました。
@@ -62,10 +62,10 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 大島がポルトガル・コヴィリャンにて開催された[12th International Workshop and Advanced School on Spaceflight Dynamics and Control](https://www.ubi.pt/Evento/23872)にて"Unorthodox Methods and Results in Multi-Body Trajectory Design Problems"と題した招待講演を行いました。
 
 ### 2026年3月18日
-学位記授与式が行われ、伊藤、小澤、佐貫、鈴木、堀内、水野、宮川、向原 が学士（工学）の学位を取得しました。おめでとうございます！
+学位記授与式が行われ、B4の伊藤、小澤、佐貫、鈴木、堀内、水野、宮川、向原 が学士（工学）の学位を取得しました。おめでとうございます！
 
 ### 2026年2月6日
-卒業研究発表会を実施しました。
+卒業研究発表会を実施しました。B4の伊藤、小澤、佐貫、鈴木、堀内、水野、宮川、向原 が卒業研究の成果を発表しました。
 
 ### 2026年2月5日
 大島が総合研究大学院大学の宇宙科学認定研究２ 発表会にコメンテータとして参加しました。
@@ -95,7 +95,7 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて、オーストラリア国立大学のグループとの共同研究の成果を発表しました。
 
 ### 2025年9月22日
-卒業研究中間発表会を実施しました。
+卒業研究中間発表会を実施しました。B4の伊藤、小澤、佐貫、鈴木、堀内、水野、宮川、向原 が卒業研究の中間報告を行いました。
 
 ### 2025年9月10日
 大島の論文 ["On the concept of conditional barrier structures in the planar circular restricted three-body problem"](https://link.springer.com/article/10.1007/s10569-025-10260-4)が学術誌Celestial Mechanics and Dynamical Astronomyに掲載されました。
