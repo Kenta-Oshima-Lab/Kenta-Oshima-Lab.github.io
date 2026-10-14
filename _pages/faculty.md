@@ -7,7 +7,7 @@ author_profile: true
 ## 大島 健太 准教授
 <img src="{{ '/images/kd_21oshima.jpg' | relative_url }}" width="200px">
 
-**所属**  
+**所属** 
 公立諏訪東京理科大学 工学部 機械電気工学科  
 [教員紹介ページ](https://www.sus.ac.jp/professor/kd_21oshima/)
 
