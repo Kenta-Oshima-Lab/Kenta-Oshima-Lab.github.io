@@ -7,7 +7,7 @@ title: "お知らせ"
 テニス練習会を星野研・渡邊研と合同で開催しました。
 
 ### 2026年10月3日、4日
-大島が東京大学 船瀬・五十里研究室 軌道RGの合宿(@茅野市)に参加しました。
+大島が東京大学 船瀬・五十里研究室 軌道RGの合宿(@茅野市)に参加し、研究発表・議論を行いました。
 
 ### 2026年9月24日
 卒業研究中間発表会を実施しました。
@@ -86,7 +86,7 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 大島の論文 ["On the concept of conditional barrier structures in the planar circular restricted three-body problem"](https://link.springer.com/article/10.1007/s10569-025-10260-4)が学術誌Celestial Mechanics and Dynamical Astronomyに掲載されました。
 
 ### 2025年8月29日
-大島が総合研究大学院大学 尾崎研究室の合宿(@八ヶ岳)に参加しました。
+大島が総合研究大学院大学 尾崎研究室の合宿(@八ヶ岳)に参加し、研究発表・議論を行いました。
 
 ### 2025年8月18日–22日
 大島がオーストラリア国立大学 川口研究室に滞在して共同研究を実施しました。
