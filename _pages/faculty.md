@@ -26,7 +26,7 @@ author_profile: true
 - 計測自動制御学会
 - American Astronautical Society 
 
-**受賞歴**
+**受賞歴**  
 - [日本航空宇宙学会 若手奨励賞 最優秀論文](https://branch.jsass.or.jp/ukaren65/%E8%8B%A5%E6%89%8B%E5%A5%A8%E5%8A%B1%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85/)
 - Celestial Mechanics and Dynamical Astronomy誌 Highlight Article
 - [日本機械学会 三浦賞](https://www.jsme.or.jp/archive/award/miura-14.pdf)
