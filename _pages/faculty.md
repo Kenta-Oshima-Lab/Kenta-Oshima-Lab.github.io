@@ -26,13 +26,13 @@ author_profile: true
 - 計測自動制御学会
 - American Astronautical Society 
 
-**受賞歴**  
+**受賞歴**
 - [日本航空宇宙学会 若手奨励賞 最優秀論文](https://branch.jsass.or.jp/ukaren65/%E8%8B%A5%E6%89%8B%E5%A5%A8%E5%8A%B1%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85/)
 - Celestial Mechanics and Dynamical Astronomy誌 Highlight Article
 - [日本機械学会 三浦賞](https://www.jsme.or.jp/archive/award/miura-14.pdf)
 - [日本航空宇宙学会 優秀発表賞](https://www.jsass.or.jp/wp-content/uploads/2018/12/1e7a62b4d105c6e795936c7c7bebf12f-1.pdf)
 
-**外部資金獲得実績**
+**外部資金獲得実績**  
 - 日本学術振興会 科学研究費助成事業 若手研究、[正則化を基盤とする効率的かつロバストなスイングバイ軌道設計](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K17448/)、2024年4月–2027年3月
 - 公益財団法人 宇宙科学振興会 国際学会出席旅費支援、[Patched Zero-Velocity-Bouncing Trajectories: A Low-Energy Path Planning Strategy](https://www.spss.or.jp/support/pdf/2024/2024rs001.pdf)、2024年4月
 - 日本学術振興会 科学研究費助成事業 若手研究、[深宇宙探査に有用な周期軌道に生起する高次元・多体モデルに特有の不安定ダイナミクス](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K14951/)、2020年4月–2024年3月
