@@ -29,7 +29,7 @@ restricted four-body problem"](https://www.sciencedirect.com/science/article/abs
 Berrettiが相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2026.html)にて研究発表を行いました。
 
 ### 2026年8月3日
-大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて「制限三体問題の基礎と応用」と題したレクチャーを実施しました。
+大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて「制限三体・四体問題の基礎と応用」と題したレクチャーを実施しました。
 
 ### 2026年7月23日
 宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。伊藤(M1)が研究発表を行いました。
