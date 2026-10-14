@@ -3,6 +3,9 @@ permalink: /note/
 title: "お知らせ"
 ---
 
+### 2026年10月14日
+テニス練習会を星野研・渡邊研と合同で開催しました。
+
 ### 2026年10月3日、4日
 大島が東京大学 船瀬・五十里研究室 軌道RGの合宿に参加しました。
 
@@ -28,6 +31,9 @@ Berrettiが相模原で開催された[JAXAアストロダイナミクスシン�
 ### 2026年8月3日
 大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)にて「制限三体問題の基礎と応用」と題したレクチャーを実施しました。
 
+### 2026年7月23日
+宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。伊藤(M1)が研究発表を行いました。
+
 ### 2026年7月22日
 Berrettiがミラノ工科大学にて[修論発表を行い、MSc in Space Engineeringの学位を取得しました](https://www.linkedin.com/posts/dario-berretti-74b431233_i-graduated-on-july-22-2026-i-received-activity-7490079719644672001-ZU1Z)．Congratulazioni!!
 
@@ -43,6 +49,9 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2026年6月2日
 大島がフランス・トゥールーズで開催された[30th International Symposium on Space Flight Dynamics](https://www.issfd2026.fr/)にて研究発表を行いました。
 
+### 2026年5月26日
+宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。大島が研究発表を行いました。
+
 ### 2026年5月18日
 大島がポルトガル・コヴィリャンにて開催された[12th International Workshop and Advanced School on Spaceflight Dynamics and Control](https://www.ubi.pt/Evento/23872)にて"Unorthodox Methods and Results in Multi-Body Trajectory Design Problems"と題した招待講演を行いました。
 
@@ -52,6 +61,9 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2026年2月6日
 卒業研究発表会を実施しました。
 
+### 2025年12月4日
+宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。佐貫(B4)、鈴木(B4)が研究発表を行いました。
+
 ### 2025年12月2日
 公立諏訪東京理科大学にて開催された[国際宇宙ステーション観察会](https://www.sus.ac.jp/topics/20251209-1/)に参加しました。大島が軌道力学に関するミニ講演会を行いました。
 
@@ -60,6 +72,9 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 
 ### 2025年11月2日
 新風祭にて研究室公開を実施しました。佐貫(B4)、鈴木(B4)、水野(B4)が研究紹介を行いました。
+
+### 2025年10月23日
+宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。Berretti(M2)が研究発表を行いました。
 
 ### 2025年10月1日
 大島がオーストラリア・シドニーで開催された[76th International Astronautical Congress](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/)にて研究発表を行いました。
@@ -85,11 +100,17 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2025年8月2日、3日
 オープンキャンパスにて研究室公開を実施しました。伊藤(B4)、小澤(B4)、佐貫(B4)、堀内(B4)、水野(B4)、宮川(B4)が研究紹介を行いました。
 
+### 2025年7月31日
+宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。大島が研究発表を行いました。
+
 ### 2026年7月28日
 大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2025.html)にて研究発表を行いました。
 
 ### 2026年7月15日
 大島が徳島で開催された[35th International Symposium on Space Technology and Science](https://ists.ne.jp/the35th/)にて研究発表を行いました。
+
+### 2025年6月24日
+宇宙系研究室合同ゼミを桜井研・中島研と合同で開催しました。堀内(B4)が研究発表を行いました。
 
 ### 2025年4月1日
 大島が公立諏訪東京理科大学に准教授として着任しました。
