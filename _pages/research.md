@@ -21,8 +21,8 @@ author_profile: true
 
 ## 月スイングバイ・太陽潮汐力を利用した軌道設計
 
-月スイングバイや太陽潮汐力を利用することで、。また、3次元のMoon-to-Moon databaseを作成し、複数回の月スイングバイ複雑なシーケンスの軌道を体系的に設計できることを示しました。
-詳しくは、以下の文献をご覧ください。
+月スイングバイや太陽潮汐力を利用することで、。また、3次元のMoon-to-Moon databaseを作成し、複数回の月スイングバイ複雑なシーケンスの軌道を体系的に設計できることを示しました。  
+### 関連論文
 - [Database Approach for Synthesizing a Ballistic OTV Flight Sequence Connecting Lunar NRHO to SEL2 Small Halo Orbit](https://www.researchgate.net/publication/398561211_Database_Approach_for_Synthesizing_a_Ballistic_OTV_Flight_Sequence_Connecting_Lunar_NRHO_to_SEL2_Small_Halo_Orbit)
 - [Low-energy transfers to the Moon with long transfer time](https://link.springer.com/article/10.1007/s10569-019-9883-7)
 - [EQUULEUS Trajectory Design](https://link.springer.com/article/10.1007/s40295-019-00206-y)
@@ -31,8 +31,8 @@ author_profile: true
 ## エネルギー的な障壁構造の解析
 
 障壁構造として、ゼロ速度曲線およびゼロ速度曲面がHill以降。
-跳ね返る挙動を利用することで、。
-詳しくは、以下の文献をご覧ください。
+跳ね返る挙動を利用することで、。  
+### 関連論文
 - [A hidden barrier surface complementary to the zero velocity surface in the circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-024-10230-2)
 - [On the concept of conditional barrier structures in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-025-10260-4)
 - [Detailed Analysis on Barrier Surfaces Separating Regions of Possible and Impossible Motion in the Circular Restricted Three-Body Problem](https://www.jstage.jst.go.jp/article/jesa/4/0/4_272/_article/-char/ja)
@@ -41,16 +41,16 @@ author_profile: true
 
 適切な変数を追加して系を記述し直すことで、特異点を除去して不良問題を扱い易くする手法は、一般に正則化と呼ばれます。
 従来手法を適用できないエネルギー条件において、月中心に衝突する特異的な軌道が月遷移軌道の設計に有効であることを示しました。
-また、平面および空間双円制限四体問題（bicircularモデル）における正則化法を構築しました。
-詳しくは、以下の文献をご覧ください。
+また、平面および空間双円制限四体問題（bicircularモデル）における正則化法を構築しました。  
+### 関連論文
 - [Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular restricted four-body problem](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)
 - [Analysis of medium-energy transfers to the Moon](https://link.springer.com/article/10.1007/s10569-016-9727-7)
 - [Linking low- to high-energy dynamics of invariant manifolds, transit orbits, and singular collision orbits in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-019-9934-0)
 
 ## 特異点フリーな軌道最適化手法の構築
 
-燃料最小化問題では。当研究室では、従来重力ポテンシャルの特異点の除去に利用されてきた正則化を軌道最適化問題に応用し、
-詳しくは、以下の文献をご覧ください。
+燃料最小化問題では。当研究室では、従来重力ポテンシャルの特異点の除去に利用されてきた正則化を軌道最適化問題に応用し、。  
+### 関連論文
 - [Regularizing fuel-optimal multi-impulse trajectories](https://link.springer.com/article/10.1007/s42064-023-0176-2)
 - [Regularized direct method for low-thrust trajectory optimization: Minimum-fuel transfer between cislunar periodic orbits](https://www.sciencedirect.com/science/article/abs/pii/S027311772300426X)
 - [The Impact of Second-Order Analytical Derivatives on Regularized Direct Multiple Shooting Method for Impulsive Spacecraft Trajectory Optimization](https://www.worldscientific.com/doi/10.1142/S2737480724500018?srsltid=AU7gw4U3dhT1TK-sCUVZz7AyR2AhZWOB9711dnq1kXZF53NaKX-PUjEG)
@@ -58,8 +58,8 @@ author_profile: true
 ## 周期軌道の探索・分岐解析
 
 無数に埋め込まれた周期軌道を同定し、その軌道特性を明らかにすることで、
-また、分岐解析を行うことで体系的に同定。時間に陽に依存する双円制限四体問題や楕円制限三体問題においても、
-詳しくは、以下の文献をご覧ください。
+また、分岐解析を行うことで体系的に同定。時間に陽に依存する双円制限四体問題や楕円制限三体問題においても、  。
+### 関連論文
 - [Multiple families of synodic resonant periodic orbits in the bicircular restricted four–body problem](https://www.sciencedirect.com/science/article/abs/pii/S0273117722004781)
 - [Spatial unstable periodic quasi-satellite orbits and their applications to spacecraft trajectories](https://link.springer.com/article/10.1007/s10569-019-9901-9)
 - [Continuation and stationkeeping analyses on planar retrograde periodic orbits around the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0273117721009303)
@@ -68,24 +68,24 @@ author_profile: true
 
 ## 深宇宙への中継軌道の提案
 
-逆行周期軌道。
-詳しくは、以下の文献をご覧ください。
+逆行周期軌道。  
+### 関連論文
 - [Extended analysis on stability, capture, and escape for planar retrograde periodic orbit around Earth](https://link.springer.com/article/10.1007/s10509-025-04434-7)
 - [Interplanetary Trajectory Design from a Moon-Grazing Retrograde Periodic Orbit around Earth](https://www.researchgate.net/publication/405746991_Interplanetary_Trajectory_Design_from_a_Moon-Grazing_Retrograde_Periodic_Orbit_around_Earth)
 - [Capture and escape analyses on planar retrograde periodic orbit around the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0273117721005676?via%3Dihub)
 
 ## 事前計算グラフを用いた軌道設計
 
-相乗りミッションにおける打ち上げ条件の急な変更や、missed thrustのような不具合に対応するには、迅速な軌道設計が求められます。しかし、軌道面外の運動も考慮する空間問題や多数の制御入力を含む問題において、変数が増えすぎるため十分な探索が困難となります。そこで当研究室では、頂点と辺から構成されるグラフが、軌道を頂点、軌道どうしの接続に関する情報（航行時間や燃料消費量）を辺の重みとして表現できる性質に着目しました。本研究では近点から近点への遷移軌道を頂点とし、それら軌道どうしの接続に要する航行時間と燃料消費量から様々に辺の重みを定義したグラフを用いることで，特殊解に依存せず多様な軌道間遷移問題を多目的最適化問題として解くことに挑戦しています。
-詳しくは、以下の文献をご覧ください。
+相乗りミッションにおける打ち上げ条件の急な変更や、missed thrustのような不具合に対応するには、迅速な軌道設計が求められます。しかし、軌道面外の運動も考慮する空間問題や多数の制御入力を含む問題において、変数が増えすぎるため十分な探索が困難となります。そこで当研究室では、頂点と辺から構成されるグラフが、軌道を頂点、軌道どうしの接続に関する情報（航行時間や燃料消費量）を辺の重みとして表現できる性質に着目しました。本研究では近点から近点への遷移軌道を頂点とし、それら軌道どうしの接続に要する航行時間と燃料消費量から様々に辺の重みを定義したグラフを用いることで，特殊解に依存せず多様な軌道間遷移問題を多目的最適化問題として解くことに挑戦しています。  
+### 関連論文
 - [A graph-based framework of low-energy transfer design](https://www.sciencedirect.com/science/article/abs/pii/S0094576525000529)
 - [事前計算グラフを用いた宇宙機の軌道設計](https://researchmap.jp/espresso/published_papers/50188589?lang=ja)
 
 ## 共鳴軌道を利用した軌道設計
 
 軌道共鳴現象を利用することで，月と会合することが可能になります。月への遷移に要する燃料を低減できる軌道を発見しました。
-また、共鳴軌道を用いた月軌道投入のロバスト化を提案しました。
-詳しくは、以下の文献をご覧ください。
+また、共鳴軌道を用いた月軌道投入のロバスト化を提案しました。  
+### 関連論文
 - [Robust Orbit Insertion Strategies for Low-Energy Lunar Transfer](https://www.researchgate.net/publication/405746990_Robust_Orbit_Insertion_Strategies_for_Low-Energy_Lunar_Transfer)
 - [Global search for low-thrust transfers to the Moon in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-016-9748-2)
 - [共鳴重力アシストの力学的機構に基づく月への遷移軌道設計](https://www.researchgate.net/publication/404279614_Design_of_Earth-Moon_Transfer_Trajectories_Based_on_Dynamical_Mechanisms_of_Resonant_Gravity_Assists)
@@ -93,6 +93,5 @@ author_profile: true
 
 <!--
 ## 低推力推進を用いた人工平衡点の生成
-
-詳しくは、以下の文献をご覧ください。
+### 関連論文
 -->
