@@ -44,6 +44,7 @@ author_profile: true
 - [EQUULEUS Trajectory Design](https://link.springer.com/article/10.1007/s40295-019-00206-y)
 - [Transfer from Lunar Gateway to Sun-Earth Halo Orbits Using Solar Sails](https://arc.aiaa.org/doi/10.2514/1.A35559)
 
+<!--
 ## エネルギー的な障壁構造の解析
 
 障壁構造として、ゼロ速度曲線およびゼロ速度曲面がHill以降。
@@ -52,7 +53,9 @@ author_profile: true
 - [A hidden barrier surface complementary to the zero velocity surface in the circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-024-10230-2)
 - [On the concept of conditional barrier structures in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-025-10260-4)
 - [Detailed Analysis on Barrier Surfaces Separating Regions of Possible and Impossible Motion in the Circular Restricted Three-Body Problem](https://www.jstage.jst.go.jp/article/jesa/4/0/4_272/_article/-char/ja)
+-->
 
+<!--
 ## 周期軌道の探索・分岐解析
 
 無数に埋め込まれた周期軌道を同定し、その軌道特性を明らかにすることで、
@@ -63,7 +66,9 @@ author_profile: true
 - [Continuation and stationkeeping analyses on planar retrograde periodic orbits around the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0273117721009303)
 - [3D stable and weakly unstable periodic orbits around the Earth near the retrograde co-orbital resonance with the Moon](https://link.springer.com/article/10.1007/s10509-022-04071-4)
 - [Retrograde co-orbital orbits in the Earth–Moon system: planar stability region under solar gravitational perturbation](https://link.springer.com/article/10.1007/s10509-021-03994-8)
+-->
 
+<!--
 ## 深宇宙への中継軌道の提案
 
 逆行周期軌道。  
@@ -71,14 +76,18 @@ author_profile: true
 - [Extended analysis on stability, capture, and escape for planar retrograde periodic orbit around Earth](https://link.springer.com/article/10.1007/s10509-025-04434-7)
 - [Interplanetary Trajectory Design from a Moon-Grazing Retrograde Periodic Orbit around Earth](https://www.researchgate.net/publication/405746991_Interplanetary_Trajectory_Design_from_a_Moon-Grazing_Retrograde_Periodic_Orbit_around_Earth)
 - [Capture and escape analyses on planar retrograde periodic orbit around the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0273117721005676?via%3Dihub)
+-->
 
+<!--
 ## 事前計算グラフを用いた軌道設計
 
 相乗りミッションにおける打ち上げ条件の急な変更や、missed thrustのような不具合に対応するには、迅速な軌道設計が求められます。しかし、軌道面外の運動も考慮する空間問題や多数の制御入力を含む問題において、変数が増えすぎるため十分な探索が困難となります。そこで当研究室では、頂点と辺から構成されるグラフが、軌道を頂点、軌道どうしの接続に関する情報（航行時間や燃料消費量）を辺の重みとして表現できる性質に着目しました。本研究では近点から近点への遷移軌道を頂点とし、それら軌道どうしの接続に要する航行時間と燃料消費量から様々に辺の重みを定義したグラフを用いることで，特殊解に依存せず多様な軌道間遷移問題を多目的最適化問題として解くことに挑戦しています。  
 ### 関連論文
 - [A graph-based framework of low-energy transfer design](https://www.sciencedirect.com/science/article/abs/pii/S0094576525000529)
 - [事前計算グラフを用いた宇宙機の軌道設計](https://researchmap.jp/espresso/published_papers/50188589?lang=ja)
+-->
 
+<!--
 ## 共鳴軌道を利用した軌道設計
 
 軌道共鳴現象を利用することで，月と会合することが可能になります。月への遷移に要する燃料を低減できる軌道を発見しました。
@@ -88,6 +97,7 @@ author_profile: true
 - [Global search for low-thrust transfers to the Moon in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-016-9748-2)
 - [共鳴重力アシストの力学的機構に基づく月への遷移軌道設計](https://www.researchgate.net/publication/404279614_Design_of_Earth-Moon_Transfer_Trajectories_Based_on_Dynamical_Mechanisms_of_Resonant_Gravity_Assists)
 - [複数回の共鳴重力アシストおよび不変多様体tubeを用いた月遷移軌道の設計](https://www.researchgate.net/publication/404279619_Design_of_Earth-Moon_transfer_trajectories_using_multiple_resonance_gravity_assists_and_invariant_manifold_tubes)
+-->
 
 <!--
 ## 低推力推進を用いた人工平衡点の生成
