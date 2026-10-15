@@ -10,55 +10,57 @@ author_profile: true
 ## 安定・不安定多様体を用いた軌道設計・軌道解析
 
 制限三体・四体問題のような一般解が存在しないシステム、特殊解が有効です。Tubeダイナミクスやlobeダイナミクスに基づく遷移軌道。また、軌道面外方向の不安定性に起因する安定・不安定多様体を用いることで、燃料消費を抑えて軌道傾斜角を変化させる手法を提案しました。
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
 ## 周期軌道の探索・分岐解析
 
 無数に埋め込まれた周期軌道を同定し、その軌道特性を明らかにすることで、
 また、分岐解析を行うことで体系的に同定。時間に陽に依存する双円制限四体問題や楕円制限三体問題においても、
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 - [Multiple families of synodic resonant periodic orbits in the bicircular restricted four–body problem](https://www.sciencedirect.com/science/article/abs/pii/S0273117722004781)
 - [Continuation and stationkeeping analyses on planar retrograde periodic orbits around the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0273117721009303)
 - [3D stable and weakly unstable periodic orbits around the Earth near the retrograde co-orbital resonance with the Moon](https://link.springer.com/article/10.1007/s10509-022-04071-4)
 - [Retrograde co-orbital orbits in the Earth–Moon system: planar stability region under solar gravitational perturbation](https://link.springer.com/article/10.1007/s10509-021-03994-8)
+- [Spatial unstable periodic quasi-satellite orbits and their applications to spacecraft trajectories](https://link.springer.com/article/10.1007/s10569-019-9901-9)
+- [The roles of L4 and L5 axial orbits in transport among co-orbital orbits](https://academic.oup.com/mnras/article/480/3/2945/5062811)
 
 ## 重力ポテンシャルの特異点の正則化・衝突軌道を用いた軌道設計
 
 従来手法を適用できないエネルギー条件において、月中心に衝突する特異的な軌道が月遷移軌道の設計に有効であることを示しました。
 また、平面および空間双円制限四体問題（bicircularモデル）における正則化法を構築しました。
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
 ## 特異点フリーな軌道最適化手法の構築
 
 燃料最小化問題。
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
 ## エネルギー的な障壁構造の解析
 
 ゼロ速度曲線およびゼロ速度曲面が以降。
 跳ね返る挙動を利用することで、。
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
 ## 深宇宙への中継軌道の提案
 
 逆行周期軌道。
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
 ## 事前計算グラフを用いた軌道設計
 
 相乗りミッションにおける打ち上げ条件の急な変更や、missed thrustのような不具合に対応するには、迅速な軌道設計が求められます。しかし、軌道面外の運動も考慮する空間問題や多数の制御入力を含む問題において、変数が増えすぎるため十分な探索が困難となります。そこで当研究室では、頂点と辺から構成されるグラフが、軌道を頂点、軌道どうしの接続に関する情報（航行時間や燃料消費量）を辺の重みとして表現できる性質に着目しました。本研究では近点から近点への遷移軌道を頂点とし、それら軌道どうしの接続に要する航行時間と燃料消費量から様々に辺の重みを定義したグラフを用いることで，特殊解に依存せず多様な軌道間遷移問題を多目的最適化問題として解くことに挑戦しています。
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
 ## Moon-to-Moon databaseを用いた軌道設計
 
 私たちは3次元のMoon-to-Moon databaseを作成し、複雑なシーケンスの軌道を体系的に設計できることを示しました。
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
 ## 月遷移軌道の設計・ロバストな軌道投入法の構築
 
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
 ## 低推力推進を用いた人工平衡点の生成
 
-より詳細な内容は、以下をご覧ください。
+より詳細な内容は、以下の文献をご覧ください。
 
