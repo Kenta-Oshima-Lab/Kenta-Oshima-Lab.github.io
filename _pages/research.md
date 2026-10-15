@@ -7,10 +7,10 @@ author_profile: true
 本研究室では、宇宙軌道力学に関する以下のような研究テーマに取り組んでいます。  
 共同研究や研究相談についてはサイドバーに記載のメールアドレスにお問い合わせください。
 
-## 安定・不安定多様体を用いた軌道設計・軌道解析
+## 安定・不安定多様体を用いた軌道解析・軌道設計
 
-制限三体・四体問題のような一般解が存在しない系、特殊解が有効です。Tubeダイナミクスやlobeダイナミクスに基づく遷移軌道。また、軌道面外方向の不安定性に起因する安定・不安定多様体を用いることで、燃料消費を抑えて軌道傾斜角を変化させる手法を提案しました。
-詳しくは、以下の文献をご覧ください。
+制限三体・四体問題のような二つ以上の天体の影響を同時に考慮する重力多体問題には一般解が存在しないため、平衡点や周期・準周期軌道、安定・不安定多様体をはじめとする特殊解を用いた軌道解析・軌道設計が有効です。私たちは、安定・不安定多様体が形成するtube構造やlobe構造に基づき、小惑星の遷移現象の力学的メカニズムの解明や、燃料消費を抑えた月への遷移軌道の設計を行っています。また、軌道面外方向の不安定性に起因する安定・不安定多様体を用いることで、宇宙機の軌道傾斜角を効率的に変化させる手法を提案しました。
+さらに詳しくは、以下の文献をご覧ください。
 - [Jumping mechanisms of Trojan asteroids in the planar restricted three- and four-body problems](https://link.springer.com/article/10.1007/s10569-015-9609-4)
 - [The roles of L4 and L5 axial orbits in transport among co-orbital orbits](https://academic.oup.com/mnras/article/480/3/2945/5062811)
 - [The use of vertical instability of L1 and L2 planar Lyapunov orbits for transfers from near rectilinear halo orbits to planar distant retrograde orbits in the Earth-Moon system](https://link.springer.com/article/10.1007/s10569-019-9892-6)
