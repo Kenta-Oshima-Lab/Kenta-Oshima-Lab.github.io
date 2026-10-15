@@ -11,6 +11,11 @@ author_profile: true
 
 制限三体・四体問題のような一般解が存在しないシステム、特殊解が有効です。Tubeダイナミクスやlobeダイナミクスに基づく遷移軌道。また、軌道面外方向の不安定性に起因する安定・不安定多様体を用いることで、燃料消費を抑えて軌道傾斜角を変化させる手法を提案しました。
 より詳細な内容は、以下の文献をご覧ください。
+- [Jumping mechanisms of Trojan asteroids in the planar restricted three- and four-body problems](https://link.springer.com/article/10.1007/s10569-015-9609-4)
+- [The use of vertical instability of L1 and L2 planar Lyapunov orbits for transfers from near rectilinear halo orbits to planar distant retrograde orbits in the Earth-Moon system](https://link.springer.com/article/10.1007/s10569-019-9892-6)
+- [Optimization-Aided, Low-Energy Transfers via Vertical Instability Around Earth–Moon L1](https://arc.aiaa.org/doi/10.2514/1.G005159)
+- [Linking low- to high-energy dynamics of invariant manifolds, transit orbits, and singular collision orbits in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-019-9934-0)
+- [The roles of L4 and L5 axial orbits in transport among co-orbital orbits](https://academic.oup.com/mnras/article/480/3/2945/5062811)
 
 ## 周期軌道の探索・分岐解析
 
@@ -18,11 +23,10 @@ author_profile: true
 また、分岐解析を行うことで体系的に同定。時間に陽に依存する双円制限四体問題や楕円制限三体問題においても、
 より詳細な内容は、以下の文献をご覧ください。
 - [Multiple families of synodic resonant periodic orbits in the bicircular restricted four–body problem](https://www.sciencedirect.com/science/article/abs/pii/S0273117722004781)
+- [Spatial unstable periodic quasi-satellite orbits and their applications to spacecraft trajectories](https://link.springer.com/article/10.1007/s10569-019-9901-9)
 - [Continuation and stationkeeping analyses on planar retrograde periodic orbits around the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0273117721009303)
 - [3D stable and weakly unstable periodic orbits around the Earth near the retrograde co-orbital resonance with the Moon](https://link.springer.com/article/10.1007/s10509-022-04071-4)
 - [Retrograde co-orbital orbits in the Earth–Moon system: planar stability region under solar gravitational perturbation](https://link.springer.com/article/10.1007/s10509-021-03994-8)
-- [Spatial unstable periodic quasi-satellite orbits and their applications to spacecraft trajectories](https://link.springer.com/article/10.1007/s10569-019-9901-9)
-- [The roles of L4 and L5 axial orbits in transport among co-orbital orbits](https://academic.oup.com/mnras/article/480/3/2945/5062811)
 
 ## 重力ポテンシャルの特異点の正則化・衝突軌道を用いた軌道設計
 
