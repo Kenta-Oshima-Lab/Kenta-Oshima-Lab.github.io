@@ -9,7 +9,7 @@ author_profile: true
 
 ## 安定・不安定多様体を用いた軌道解析・軌道設計
 
-制限三体・四体問題のような二つ以上の天体の影響を同時に考慮する重力多体問題には一般解が存在しないため、平衡点や周期・準周期軌道、安定・不安定多様体をはじめとする特殊解を用いた軌道解析・軌道設計が有効です。私たちは、安定・不安定多様体が形成するtube構造やlobe構造に基づき、小天体の遷移現象の力学的メカニズムの解明や、燃料消費を抑えた月への遷移軌道の設計を行っています。また、軌道面外方向の不安定性に起因する安定・不安定多様体を用いることで、宇宙機の軌道傾斜角を効率的に変化させる手法を提案しました。  
+制限三体・四体問題のような二つ以上の天体の影響を同時に考慮する重力多体問題には一般解が存在しないため、平衡点（ラグランジュ点）や周期・準周期軌道、安定・不安定多様体をはじめとする特殊解を用いた軌道解析・軌道設計が有効です。私たちは、安定・不安定多様体が形成するtube構造やlobe構造に基づき、小天体の遷移現象の力学的メカニズムの解明や、燃料消費を抑えた月への遷移軌道の設計を行っています。また、軌道面外方向の不安定性に起因する安定・不安定多様体を用いることで、宇宙機の軌道傾斜角を効率的に変化させる手法を提案しました。  
 ### 関連論文
 - [Jumping mechanisms of Trojan asteroids in the planar restricted three- and four-body problems](https://link.springer.com/article/10.1007/s10569-015-9609-4)
 - [The roles of L4 and L5 axial orbits in transport among co-orbital orbits](https://academic.oup.com/mnras/article/480/3/2945/5062811)
@@ -19,9 +19,27 @@ author_profile: true
 - [共鳴重力アシストの力学的機構に基づく月への遷移軌道設計](https://www.researchgate.net/publication/404279614_Design_of_Earth-Moon_Transfer_Trajectories_Based_on_Dynamical_Mechanisms_of_Resonant_Gravity_Assists)
 - [複数回の共鳴重力アシストおよび不変多様体tubeを用いた月遷移軌道の設計](https://www.researchgate.net/publication/404279619_Design_of_Earth-Moon_transfer_trajectories_using_multiple_resonance_gravity_assists_and_invariant_manifold_tubes)
 
+## 重力ポテンシャルの特異点の正則化・衝突軌道を用いた軌道設計
+
+適切な変数を追加して系を記述し直すことで、特異点を除去して不良問題を扱い易くする手法は、一般に正則化と呼ばれます。
+従来手法を適用できないエネルギー条件において、月中心に衝突する特異的な軌道が月遷移軌道の設計に有用な特殊解であることを示しました。
+また、平面および空間双円制限四体問題（bicircularモデル）における正則化法を構築しました。  
+### 関連論文
+- [Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular restricted four-body problem](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)
+- [Analysis of medium-energy transfers to the Moon](https://link.springer.com/article/10.1007/s10569-016-9727-7)
+- [Linking low- to high-energy dynamics of invariant manifolds, transit orbits, and singular collision orbits in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-019-9934-0)
+
+## 特異点フリーな軌道最適化手法の構築
+
+燃料最小化問題では。当研究室では、従来重力ポテンシャルの特異点の除去に利用されてきた正則化を軌道最適化問題に応用し、。  
+### 関連論文
+- [Regularizing fuel-optimal multi-impulse trajectories](https://link.springer.com/article/10.1007/s42064-023-0176-2)
+- [Regularized direct method for low-thrust trajectory optimization: Minimum-fuel transfer between cislunar periodic orbits](https://www.sciencedirect.com/science/article/abs/pii/S027311772300426X)
+- [The Impact of Second-Order Analytical Derivatives on Regularized Direct Multiple Shooting Method for Impulsive Spacecraft Trajectory Optimization](https://www.worldscientific.com/doi/10.1142/S2737480724500018?srsltid=AU7gw4U3dhT1TK-sCUVZz7AyR2AhZWOB9711dnq1kXZF53NaKX-PUjEG)
+
 ## 月スイングバイ・太陽潮汐力を利用した軌道設計
 
-月スイングバイや太陽潮汐力を利用することで、。また、3次元のMoon-to-Moon databaseを作成し、複数回の月スイングバイ複雑なシーケンスの軌道を体系的に設計できることを示しました。  
+地球周回軌道を大きく変化させるには、月・太陽重力の利用が有効です。私たちは月スイングバイや太陽潮汐力を積極的に利用することで、様々な目的地（月，月近傍の準周期軌道など）に燃料消費を抑えて到達できる軌道を設計しています。また、複数回の月スイングバイや太陽潮汐力を利用するフェーズを含む複雑なシーケンスの軌道を体系的に設計するため、3次元モデルにおいて月から月に遷移する軌道のデータベース（Moon-to-Moon database）を作成し、その有効性を示しました。
 ### 関連論文
 - [Database Approach for Synthesizing a Ballistic OTV Flight Sequence Connecting Lunar NRHO to SEL2 Small Halo Orbit](https://www.researchgate.net/publication/398561211_Database_Approach_for_Synthesizing_a_Ballistic_OTV_Flight_Sequence_Connecting_Lunar_NRHO_to_SEL2_Small_Halo_Orbit)
 - [Low-energy transfers to the Moon with long transfer time](https://link.springer.com/article/10.1007/s10569-019-9883-7)
@@ -36,24 +54,6 @@ author_profile: true
 - [A hidden barrier surface complementary to the zero velocity surface in the circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-024-10230-2)
 - [On the concept of conditional barrier structures in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-025-10260-4)
 - [Detailed Analysis on Barrier Surfaces Separating Regions of Possible and Impossible Motion in the Circular Restricted Three-Body Problem](https://www.jstage.jst.go.jp/article/jesa/4/0/4_272/_article/-char/ja)
-
-## 重力ポテンシャルの特異点の正則化・衝突軌道を用いた軌道設計
-
-適切な変数を追加して系を記述し直すことで、特異点を除去して不良問題を扱い易くする手法は、一般に正則化と呼ばれます。
-従来手法を適用できないエネルギー条件において、月中心に衝突する特異的な軌道が月遷移軌道の設計に有効であることを示しました。
-また、平面および空間双円制限四体問題（bicircularモデル）における正則化法を構築しました。  
-### 関連論文
-- [Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular restricted four-body problem](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)
-- [Analysis of medium-energy transfers to the Moon](https://link.springer.com/article/10.1007/s10569-016-9727-7)
-- [Linking low- to high-energy dynamics of invariant manifolds, transit orbits, and singular collision orbits in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-019-9934-0)
-
-## 特異点フリーな軌道最適化手法の構築
-
-燃料最小化問題では。当研究室では、従来重力ポテンシャルの特異点の除去に利用されてきた正則化を軌道最適化問題に応用し、。  
-### 関連論文
-- [Regularizing fuel-optimal multi-impulse trajectories](https://link.springer.com/article/10.1007/s42064-023-0176-2)
-- [Regularized direct method for low-thrust trajectory optimization: Minimum-fuel transfer between cislunar periodic orbits](https://www.sciencedirect.com/science/article/abs/pii/S027311772300426X)
-- [The Impact of Second-Order Analytical Derivatives on Regularized Direct Multiple Shooting Method for Impulsive Spacecraft Trajectory Optimization](https://www.worldscientific.com/doi/10.1142/S2737480724500018?srsltid=AU7gw4U3dhT1TK-sCUVZz7AyR2AhZWOB9711dnq1kXZF53NaKX-PUjEG)
 
 ## 周期軌道の探索・分岐解析
 
