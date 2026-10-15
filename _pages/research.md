@@ -19,6 +19,15 @@ author_profile: true
 - [共鳴重力アシストの力学的機構に基づく月への遷移軌道設計](https://www.researchgate.net/publication/404279614_Design_of_Earth-Moon_Transfer_Trajectories_Based_on_Dynamical_Mechanisms_of_Resonant_Gravity_Assists)
 - [複数回の共鳴重力アシストおよび不変多様体tubeを用いた月遷移軌道の設計](https://www.researchgate.net/publication/404279619_Design_of_Earth-Moon_transfer_trajectories_using_multiple_resonance_gravity_assists_and_invariant_manifold_tubes)
 
+## 月スイングバイ・太陽潮汐力を利用した軌道設計
+
+月スイングバイや太陽潮汐力を利用することで、。また、3次元のMoon-to-Moon databaseを作成し、複数回の月スイングバイ複雑なシーケンスの軌道を体系的に設計できることを示しました。
+詳しくは、以下の文献をご覧ください。
+- [Database Approach for Synthesizing a Ballistic OTV Flight Sequence Connecting Lunar NRHO to SEL2 Small Halo Orbit](https://www.researchgate.net/publication/398561211_Database_Approach_for_Synthesizing_a_Ballistic_OTV_Flight_Sequence_Connecting_Lunar_NRHO_to_SEL2_Small_Halo_Orbit)
+- [Low-energy transfers to the Moon with long transfer time](https://link.springer.com/article/10.1007/s10569-019-9883-7)
+- [EQUULEUS Trajectory Design](https://link.springer.com/article/10.1007/s40295-019-00206-y)
+- [Transfer from Lunar Gateway to Sun-Earth Halo Orbits Using Solar Sails](https://arc.aiaa.org/doi/10.2514/1.A35559)
+
 ## 周期軌道の探索・分岐解析
 
 無数に埋め込まれた周期軌道を同定し、その軌道特性を明らかにすることで、
@@ -64,13 +73,6 @@ author_profile: true
 相乗りミッションにおける打ち上げ条件の急な変更や、missed thrustのような不具合に対応するには、迅速な軌道設計が求められます。しかし、軌道面外の運動も考慮する空間問題や多数の制御入力を含む問題において、変数が増えすぎるため十分な探索が困難となります。そこで当研究室では、頂点と辺から構成されるグラフが、軌道を頂点、軌道どうしの接続に関する情報（航行時間や燃料消費量）を辺の重みとして表現できる性質に着目しました。本研究では近点から近点への遷移軌道を頂点とし、それら軌道どうしの接続に要する航行時間と燃料消費量から様々に辺の重みを定義したグラフを用いることで，特殊解に依存せず多様な軌道間遷移問題を多目的最適化問題として解くことに挑戦しています。
 詳しくは、以下の文献をご覧ください。
 
-## 月スイングバイ・太陽潮汐力を利用した軌道設計
-
-月スイングバイや太陽潮汐力を利用することで、。また、3次元のMoon-to-Moon databaseを作成し、複数回の月スイングバイ複雑なシーケンスの軌道を体系的に設計できることを示しました。
-詳しくは、以下の文献をご覧ください。
-- [Database Approach for Synthesizing a Ballistic OTV Flight Sequence Connecting Lunar NRHO to SEL2 Small Halo Orbit](https://www.researchgate.net/publication/398561211_Database_Approach_for_Synthesizing_a_Ballistic_OTV_Flight_Sequence_Connecting_Lunar_NRHO_to_SEL2_Small_Halo_Orbit)
-- [Low-energy transfers to the Moon with long transfer time](https://link.springer.com/article/10.1007/s10569-019-9883-7)
-- [EQUULEUS Trajectory Design](https://link.springer.com/article/10.1007/s40295-019-00206-y)
 
 ## 共鳴軌道を利用した軌道設計
 
