@@ -61,6 +61,9 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 ### 2026年5月18日
 大島がポルトガル・コヴィリャンにて開催された[12th International Workshop and Advanced School on Spaceflight Dynamics and Control](https://www.ubi.pt/Evento/23872)にて"Unorthodox Methods and Results in Multi-Body Trajectory Design Problems"と題した招待講演を行いました。
 
+### 2026年4月15日
+大島が大阪で開催された[第57期 日本航空宇宙学会 年会講演会](https://smartconf.jp/content/57nenkai)にて研究発表を行いました。
+
 ### 2026年3月18日
 学位記授与式が行われ、B4の伊藤、小澤、佐貫、鈴木、堀内、水野、宮川、向原 が学士（工学）の学位を取得しました。おめでとうございます！
 
