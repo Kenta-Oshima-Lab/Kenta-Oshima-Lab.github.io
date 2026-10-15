@@ -34,6 +34,9 @@ author_profile: true
 従来手法を適用できないエネルギー条件において、月中心に衝突する特異的な軌道が月遷移軌道の設計に有効であることを示しました。
 また、平面および空間双円制限四体問題（bicircularモデル）における正則化法を構築しました。
 詳しくは、以下の文献をご覧ください。
+- [Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular restricted four-body problem](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)
+- [Analysis of medium-energy transfers to the Moon](https://link.springer.com/article/10.1007/s10569-016-9727-7)
+- [Linking low- to high-energy dynamics of invariant manifolds, transit orbits, and singular collision orbits in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-019-9934-0)
 
 ## 特異点フリーな軌道最適化手法の構築
 
