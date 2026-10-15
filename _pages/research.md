@@ -21,9 +21,7 @@ author_profile: true
 
 ## 重力ポテンシャルの特異点の正則化・衝突軌道を用いた軌道設計
 
-適切な変数を追加して系を記述し直すことで、特異点を除去して不良問題を扱い易くする手法は、一般に正則化と呼ばれます。
-従来手法を適用できないエネルギー条件において、月中心に衝突する特異的な軌道が月遷移軌道の設計に有用な特殊解であることを示しました。
-また、平面および空間双円制限四体問題（bicircularモデル）における正則化法を構築しました。  
+適切な変数を追加して系を記述し直すことで、特異点を除去して不良問題を扱い易くする手法は、一般に正則化と呼ばれます。私たちは、従来利用されてきた安定・不安定多様体に加え、天体中心に衝突する特異的な軌道も、重力多体問題の軌道解析・設計に有用な特殊解であることを示し、地球–月間遷移軌道の設計に応用しました。また、運動方程式が時間に陽に依存する双円制限四体問題（bicircularモデル）における正則化法および月衝突軌道の計算手法を構築しました。  
 ### 関連論文
 - [Levi-Civita and Kustaanheimo–Stiefel regularizations of the bicircular restricted four-body problem](https://www.sciencedirect.com/science/article/abs/pii/S1384107626001193)
 - [Analysis of medium-energy transfers to the Moon](https://link.springer.com/article/10.1007/s10569-016-9727-7)
