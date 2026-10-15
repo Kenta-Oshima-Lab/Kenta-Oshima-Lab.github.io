@@ -39,7 +39,7 @@ author_profile: true
 
 ## 月スイングバイ・太陽潮汐力を利用した軌道設計
 
-地球周回軌道を大きく変化させるには、月・太陽重力の利用が有効です。私たちは月スイングバイや太陽潮汐力を積極的に利用することで、様々な目的地（月，月近傍の準周期軌道など）に燃料消費を抑えて到達できる軌道を設計しています。また、複数回の月スイングバイや太陽潮汐力を利用するフェーズを含む複雑なシーケンスの軌道を体系的に設計するため、3次元モデルにおいて月から月に遷移する軌道のデータベース（Moon-to-Moon database）を作成し、その有効性を示しました。
+地球周回軌道を大きく変化させるには、月・太陽重力の利用が有効です。私たちは月スイングバイや太陽潮汐力を積極的に利用することで、様々な目的地（月，月近傍の準周期軌道など）に燃料消費を抑えて到達できる軌道を設計しています。また、複数回の月スイングバイや太陽潮汐力を利用するフェーズを含む複雑なシーケンスの軌道を体系的に設計するため、3次元モデルにおいて月から月に遷移する軌道のデータベース（3D Moon-to-Moon database）を作成し、その有効性を示しました。
 ### 関連論文
 - [Database Approach for Synthesizing a Ballistic OTV Flight Sequence Connecting Lunar NRHO to SEL2 Small Halo Orbit](https://www.researchgate.net/publication/398561211_Database_Approach_for_Synthesizing_a_Ballistic_OTV_Flight_Sequence_Connecting_Lunar_NRHO_to_SEL2_Small_Halo_Orbit)
 - [Low-energy transfers to the Moon with long transfer time](https://link.springer.com/article/10.1007/s10569-019-9883-7)
