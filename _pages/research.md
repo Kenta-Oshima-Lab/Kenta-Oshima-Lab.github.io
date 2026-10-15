@@ -29,7 +29,7 @@ author_profile: true
 
 ## 特異点フリーな軌道最適化手法の構築
 
-燃料最小化問題では。当研究室では、従来重力ポテンシャルの特異点の除去に利用されてきた正則化を軌道最適化問題に応用し、。  
+宇宙機の軌道設計において、燃料消費量や飛行時間を最小化する軌道最適化は。当研究室では、重力ポテンシャルの特異点を除去するために従来用いられてきた正則化手法を、制御入力がゼロとなる状態を特異点にもつ燃料最小化問題に適用することで、特異点フリーな収束性の良い軌道最適化手法を開発しました。提案手法を様々な軌道遷移問題に応用することで、  
 ### 関連論文
 - [Regularizing fuel-optimal multi-impulse trajectories](https://link.springer.com/article/10.1007/s42064-023-0176-2)
 - [Regularized direct method for low-thrust trajectory optimization: Minimum-fuel transfer between cislunar periodic orbits](https://www.sciencedirect.com/science/article/abs/pii/S027311772300426X)
