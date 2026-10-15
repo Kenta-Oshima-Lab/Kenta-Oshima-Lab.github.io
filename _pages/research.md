@@ -28,17 +28,6 @@ author_profile: true
 - [EQUULEUS Trajectory Design](https://link.springer.com/article/10.1007/s40295-019-00206-y)
 - [Transfer from Lunar Gateway to Sun-Earth Halo Orbits Using Solar Sails](https://arc.aiaa.org/doi/10.2514/1.A35559)
 
-## 周期軌道の探索・分岐解析
-
-無数に埋め込まれた周期軌道を同定し、その軌道特性を明らかにすることで、
-また、分岐解析を行うことで体系的に同定。時間に陽に依存する双円制限四体問題や楕円制限三体問題においても、
-詳しくは、以下の文献をご覧ください。
-- [Multiple families of synodic resonant periodic orbits in the bicircular restricted four–body problem](https://www.sciencedirect.com/science/article/abs/pii/S0273117722004781)
-- [Spatial unstable periodic quasi-satellite orbits and their applications to spacecraft trajectories](https://link.springer.com/article/10.1007/s10569-019-9901-9)
-- [Continuation and stationkeeping analyses on planar retrograde periodic orbits around the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0273117721009303)
-- [3D stable and weakly unstable periodic orbits around the Earth near the retrograde co-orbital resonance with the Moon](https://link.springer.com/article/10.1007/s10509-022-04071-4)
-- [Retrograde co-orbital orbits in the Earth–Moon system: planar stability region under solar gravitational perturbation](https://link.springer.com/article/10.1007/s10509-021-03994-8)
-
 ## 重力ポテンシャルの特異点の正則化・衝突軌道を用いた軌道設計
 
 正則化の定義を記載。
@@ -56,6 +45,17 @@ author_profile: true
 - [Regularizing fuel-optimal multi-impulse trajectories](https://link.springer.com/article/10.1007/s42064-023-0176-2)
 - [Regularized direct method for low-thrust trajectory optimization: Minimum-fuel transfer between cislunar periodic orbits](https://www.sciencedirect.com/science/article/abs/pii/S027311772300426X)
 - [The Impact of Second-Order Analytical Derivatives on Regularized Direct Multiple Shooting Method for Impulsive Spacecraft Trajectory Optimization](https://www.worldscientific.com/doi/10.1142/S2737480724500018?srsltid=AU7gw4U3dhT1TK-sCUVZz7AyR2AhZWOB9711dnq1kXZF53NaKX-PUjEG)
+
+## 周期軌道の探索・分岐解析
+
+無数に埋め込まれた周期軌道を同定し、その軌道特性を明らかにすることで、
+また、分岐解析を行うことで体系的に同定。時間に陽に依存する双円制限四体問題や楕円制限三体問題においても、
+詳しくは、以下の文献をご覧ください。
+- [Multiple families of synodic resonant periodic orbits in the bicircular restricted four–body problem](https://www.sciencedirect.com/science/article/abs/pii/S0273117722004781)
+- [Spatial unstable periodic quasi-satellite orbits and their applications to spacecraft trajectories](https://link.springer.com/article/10.1007/s10569-019-9901-9)
+- [Continuation and stationkeeping analyses on planar retrograde periodic orbits around the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0273117721009303)
+- [3D stable and weakly unstable periodic orbits around the Earth near the retrograde co-orbital resonance with the Moon](https://link.springer.com/article/10.1007/s10509-022-04071-4)
+- [Retrograde co-orbital orbits in the Earth–Moon system: planar stability region under solar gravitational perturbation](https://link.springer.com/article/10.1007/s10509-021-03994-8)
 
 ## 深宇宙への中継軌道の提案
 
