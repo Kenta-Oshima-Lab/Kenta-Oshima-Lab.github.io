@@ -39,6 +39,9 @@ author_profile: true
 
 燃料最小化問題では。当研究室では、従来重力ポテンシャルの特異点の除去に利用されてきた正則化を軌道最適化問題に応用し、
 詳しくは、以下の文献をご覧ください。
+- [Regularizing fuel-optimal multi-impulse trajectories](https://link.springer.com/article/10.1007/s42064-023-0176-2)
+- [Regularized direct method for low-thrust trajectory optimization: Minimum-fuel transfer between cislunar periodic orbits](https://www.sciencedirect.com/science/article/abs/pii/S027311772300426X)
+- [The Impact of Second-Order Analytical Derivatives on Regularized Direct Multiple Shooting Method for Impulsive Spacecraft Trajectory Optimization](https://www.worldscientific.com/doi/10.1142/S2737480724500018?srsltid=AU7gw4U3dhT1TK-sCUVZz7AyR2AhZWOB9711dnq1kXZF53NaKX-PUjEG)
 
 ## エネルギー的な障壁構造の解析
 
