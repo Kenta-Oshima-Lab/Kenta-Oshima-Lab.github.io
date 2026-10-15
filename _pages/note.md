@@ -34,6 +34,9 @@ Berrettiが相模原で開催された[JAXAアストロダイナミクスシン�
 ### 2026年8月3日
 大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2026.html)にて「制限三体・四体問題の基礎と応用」と題した[レクチャー](https://www.isas.jaxa.jp/researchers/symposium/files/36th_Astrodynamics_Symposium_Lecture.pdf)を実施しました。
 
+### 2026年7月26日
+大島が小・中学生のためのサイエンススクールに運営委員として参加しました。
+
 ### 2026年7月24日
 大島が岡谷工業高等学校のインターンシップ（大学体験）にて模擬講義を行いました。
 
@@ -123,6 +126,9 @@ Berrettiがフランス・トゥールーズで開催された[30th Internationa
 
 ### 2026年7月28日
 大島が相模原で開催された[JAXAアストロダイナミクスシンポジウム](https://www.isas.jaxa.jp/researchers/symposium/dynamics/fy_2025.html)にて、オーストラリア国立大学のグループとの共同研究の成果を発表しました。
+
+### 2025年7月27日
+大島が小・中学生のためのサイエンススクールに運営委員として参加しました。
 
 ### 2026年7月15日
 大島が徳島で開催された[35th International Symposium on Space Technology and Science](https://ists.ne.jp/the35th/)にて研究発表を行いました。
