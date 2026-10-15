@@ -16,7 +16,6 @@ author_profile: true
 - [The use of vertical instability of L1 and L2 planar Lyapunov orbits for transfers from near rectilinear halo orbits to planar distant retrograde orbits in the Earth-Moon system](https://link.springer.com/article/10.1007/s10569-019-9892-6)
 - [Optimization-Aided, Low-Energy Transfers via Vertical Instability Around Earth–Moon L1](https://arc.aiaa.org/doi/10.2514/1.G005159)
 - [Linking low- to high-energy dynamics of invariant manifolds, transit orbits, and singular collision orbits in the planar circular restricted three-body problem](https://link.springer.com/article/10.1007/s10569-019-9934-0)
-- [Spatial unstable periodic quasi-satellite orbits and their applications to spacecraft trajectories](https://link.springer.com/article/10.1007/s10569-019-9901-9)
 - [共鳴重力アシストの力学的機構に基づく月への遷移軌道設計](https://www.researchgate.net/publication/404279614_Design_of_Earth-Moon_Transfer_Trajectories_Based_on_Dynamical_Mechanisms_of_Resonant_Gravity_Assists)
 - [複数回の共鳴重力アシストおよび不変多様体tubeを用いた月遷移軌道の設計](https://www.researchgate.net/publication/404279619_Design_of_Earth-Moon_transfer_trajectories_using_multiple_resonance_gravity_assists_and_invariant_manifold_tubes)
 
