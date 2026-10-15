@@ -46,15 +46,15 @@ author_profile: true
 - [Regularized direct method for low-thrust trajectory optimization: Minimum-fuel transfer between cislunar periodic orbits](https://www.sciencedirect.com/science/article/abs/pii/S027311772300426X)
 - [The Impact of Second-Order Analytical Derivatives on Regularized Direct Multiple Shooting Method for Impulsive Spacecraft Trajectory Optimization](https://www.worldscientific.com/doi/10.1142/S2737480724500018?srsltid=AU7gw4U3dhT1TK-sCUVZz7AyR2AhZWOB9711dnq1kXZF53NaKX-PUjEG)
 
+## 深宇宙への中継軌道の提案
+
+逆行周期軌道。
+詳しくは、以下の文献をご覧ください。
+
 ## エネルギー的な障壁構造の解析
 
 ゼロ速度曲線およびゼロ速度曲面が以降。
 跳ね返る挙動を利用することで、。
-詳しくは、以下の文献をご覧ください。
-
-## 深宇宙への中継軌道の提案
-
-逆行周期軌道。
 詳しくは、以下の文献をご覧ください。
 
 ## 事前計算グラフを用いた軌道設計
