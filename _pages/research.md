@@ -28,6 +28,12 @@ author_profile: true
 - [EQUULEUS Trajectory Design](https://link.springer.com/article/10.1007/s40295-019-00206-y)
 - [Transfer from Lunar Gateway to Sun-Earth Halo Orbits Using Solar Sails](https://arc.aiaa.org/doi/10.2514/1.A35559)
 
+## エネルギー的な障壁構造の解析
+
+ゼロ速度曲線およびゼロ速度曲面が以降。
+跳ね返る挙動を利用することで、。
+詳しくは、以下の文献をご覧ください。
+
 ## 重力ポテンシャルの特異点の正則化・衝突軌道を用いた軌道設計
 
 正則化の定義を記載。
@@ -60,12 +66,6 @@ author_profile: true
 ## 深宇宙への中継軌道の提案
 
 逆行周期軌道。
-詳しくは、以下の文献をご覧ください。
-
-## エネルギー的な障壁構造の解析
-
-ゼロ速度曲線およびゼロ速度曲面が以降。
-跳ね返る挙動を利用することで、。
 詳しくは、以下の文献をご覧ください。
 
 ## 事前計算グラフを用いた軌道設計
